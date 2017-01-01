@@ -7,3 +7,7 @@ Dog Dog Dog
 4. D
 5. O
 6. G
+
+7. Poodle
+8. Huscky
+9. Doberman
