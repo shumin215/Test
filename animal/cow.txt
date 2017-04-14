@@ -3,6 +3,7 @@ version_cow
 version_cow
 version_cow
 
+My name: Merge man
 
 version_cow
 version_cow
