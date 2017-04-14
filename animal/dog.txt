@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Wall Wall Wall
+=======
+Dog Dog Dog
+>>>>>>> 75aec82d6e24fe6733c8a8c1dd274b6e388c1cd5
