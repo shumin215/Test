@@ -1,0 +1,15 @@
+version_cow
+version_cow
+version_cow
+version_cow
+
+<<<<<<< HEAD
+I'm master branch
+=======
+My name: Merge man
+>>>>>>> For_merge_branch
+
+version_cow
+version_cow
+
+I'm master branch
